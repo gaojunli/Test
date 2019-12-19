@@ -1,0 +1,22 @@
+1、GameCollectionEventHandler.queryGameCollection 游戏查询
+2、DissertationEventHandler.getDissertation 专题详情接口
+5、GameEventHandler.getRecomGame 根据推荐页ID获取游戏列表
+6、GameEventHandler.getCatalogGame 根据栏目ID获取游戏列表
+7、GameEventHandler.getThemeGameList 根据主题ID获取游戏列表
+8、GameEventHandler.getCatalogAndGameList 排行接口 :请求排行接口
+9、GameEventHandler.getGameInfosDetail 游戏详情
+10、GameEventHandler.getMyNewGameManage 游戏管理 我的游戏 6.4。0.1 增加云游戏
+11、GameEventHandler.guessYouLike 6.0需求，大家都在玩
+
+
+
+3、EpgEventHandler.getLongAd 短地址
+4、ExitActivityHandler.getExitActivityInfo 服务端下发退出页活动信息接口
+12、GameEventHandler.aiRecommendGame
+13、GameInfoEventHandler.getGameDetail 获取游戏详情(>=6.0.0.0)
+14、GameInfoEventHandler.getTagGameList 根据标签获取带对应标签的游戏列表 
+15、GameInfoEventHandler.getLev3CatalogInfo 游戏详情页-三级栏目详情页
+16、NewMenuHandler.getLev2CatalogInfo 二级栏目详情页
+19、TvGameSearchEventHandler.getTvGameSearch TV搜索
+20、TvGameSearchEventHandler.getTjGameSearch TV推荐游戏接口
+ 
