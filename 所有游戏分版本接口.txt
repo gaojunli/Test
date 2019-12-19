@@ -6,10 +6,7 @@
 8、GameEventHandler.getCatalogAndGameList 排行接口 :请求排行接口
 9、GameEventHandler.getGameInfosDetail 游戏详情
 10、GameEventHandler.getMyNewGameManage 游戏管理 我的游戏 6.4。0.1 增加云游戏
-11、GameEventHandler.guessYouLike 6.0需求，大家都在玩
-
-
-
+11、GameEventHandler.guessYouLike 6.0需求，大家都在玩 
 3、EpgEventHandler.getLongAd 短地址
 4、ExitActivityHandler.getExitActivityInfo 服务端下发退出页活动信息接口
 12、GameEventHandler.aiRecommendGame
